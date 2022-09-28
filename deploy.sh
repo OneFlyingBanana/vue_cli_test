@@ -19,7 +19,7 @@ git commit -m 'deploy'
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main
 
-# if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
+# if you are deploying to https://<USERNt: :bearhug: :mgg: :sgj: AME>.github.io/<REPO>
+git push -f git@github.com:OneFlyingBanana/vue_cli_test.git master:gh-pages
 
 cd -
