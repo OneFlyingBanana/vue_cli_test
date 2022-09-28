@@ -1,1 +1,1 @@
-module.exports = {    publicPath: '/vue_cli_test'}
+module.exports = {    publicPath: process.env.NODE_ENV === 'production'    ? '/cue_cli_test/'    : '/'}
